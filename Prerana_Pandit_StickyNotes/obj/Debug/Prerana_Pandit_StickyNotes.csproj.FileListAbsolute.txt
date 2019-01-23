@@ -1,0 +1,17 @@
+D:\2nd_semester_lab\DDOOCP(KR)\Prerana_Pandit_StickyNotes\Prerana_Pandit_StickyNotes\bin\Debug\Prerana_Pandit_StickyNotes.exe.config
+D:\2nd_semester_lab\DDOOCP(KR)\Prerana_Pandit_StickyNotes\Prerana_Pandit_StickyNotes\bin\Debug\Prerana_Pandit_StickyNotes.exe
+D:\2nd_semester_lab\DDOOCP(KR)\Prerana_Pandit_StickyNotes\Prerana_Pandit_StickyNotes\bin\Debug\Prerana_Pandit_StickyNotes.pdb
+D:\2nd_semester_lab\DDOOCP(KR)\Prerana_Pandit_StickyNotes\Prerana_Pandit_StickyNotes\obj\Debug\Prerana_Pandit_StickyNotes.csprojResolveAssemblyReference.cache
+D:\2nd_semester_lab\DDOOCP(KR)\Prerana_Pandit_StickyNotes\Prerana_Pandit_StickyNotes\obj\Debug\Prerana_Pandit_StickyNotes.Categories.resources
+D:\2nd_semester_lab\DDOOCP(KR)\Prerana_Pandit_StickyNotes\Prerana_Pandit_StickyNotes\obj\Debug\Prerana_Pandit_StickyNotes.Dashboard.resources
+D:\2nd_semester_lab\DDOOCP(KR)\Prerana_Pandit_StickyNotes\Prerana_Pandit_StickyNotes\obj\Debug\Prerana_Pandit_StickyNotes.Help.resources
+D:\2nd_semester_lab\DDOOCP(KR)\Prerana_Pandit_StickyNotes\Prerana_Pandit_StickyNotes\obj\Debug\Prerana_Pandit_StickyNotes.Login.resources
+D:\2nd_semester_lab\DDOOCP(KR)\Prerana_Pandit_StickyNotes\Prerana_Pandit_StickyNotes\obj\Debug\Prerana_Pandit_StickyNotes.MAINDASHBOARD.resources
+D:\2nd_semester_lab\DDOOCP(KR)\Prerana_Pandit_StickyNotes\Prerana_Pandit_StickyNotes\obj\Debug\Prerana_Pandit_StickyNotes.Piechart.resources
+D:\2nd_semester_lab\DDOOCP(KR)\Prerana_Pandit_StickyNotes\Prerana_Pandit_StickyNotes\obj\Debug\Prerana_Pandit_StickyNotes.Properties.Resources.resources
+D:\2nd_semester_lab\DDOOCP(KR)\Prerana_Pandit_StickyNotes\Prerana_Pandit_StickyNotes\obj\Debug\Prerana_Pandit_StickyNotes.Stickynote.resources
+D:\2nd_semester_lab\DDOOCP(KR)\Prerana_Pandit_StickyNotes\Prerana_Pandit_StickyNotes\obj\Debug\Prerana_Pandit_StickyNotes.Userentry.resources
+D:\2nd_semester_lab\DDOOCP(KR)\Prerana_Pandit_StickyNotes\Prerana_Pandit_StickyNotes\obj\Debug\Prerana_Pandit_StickyNotes.usertype.resources
+D:\2nd_semester_lab\DDOOCP(KR)\Prerana_Pandit_StickyNotes\Prerana_Pandit_StickyNotes\obj\Debug\Prerana_Pandit_StickyNotes.csproj.GenerateResource.Cache
+D:\2nd_semester_lab\DDOOCP(KR)\Prerana_Pandit_StickyNotes\Prerana_Pandit_StickyNotes\obj\Debug\Prerana_Pandit_StickyNotes.exe
+D:\2nd_semester_lab\DDOOCP(KR)\Prerana_Pandit_StickyNotes\Prerana_Pandit_StickyNotes\obj\Debug\Prerana_Pandit_StickyNotes.pdb

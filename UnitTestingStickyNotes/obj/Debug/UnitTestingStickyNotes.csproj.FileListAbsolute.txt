@@ -1,0 +1,8 @@
+D:\2nd_semester_lab\DDOOCP(KR)\Prerana_Pandit_StickyNotes\UnitTestingStickyNotes\bin\Debug\UnitTestingStickyNotes.dll
+D:\2nd_semester_lab\DDOOCP(KR)\Prerana_Pandit_StickyNotes\UnitTestingStickyNotes\bin\Debug\UnitTestingStickyNotes.pdb
+D:\2nd_semester_lab\DDOOCP(KR)\Prerana_Pandit_StickyNotes\UnitTestingStickyNotes\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\2nd_semester_lab\DDOOCP(KR)\Prerana_Pandit_StickyNotes\UnitTestingStickyNotes\bin\Debug\Prerana_Pandit_StickyNotes.exe
+D:\2nd_semester_lab\DDOOCP(KR)\Prerana_Pandit_StickyNotes\UnitTestingStickyNotes\bin\Debug\Prerana_Pandit_StickyNotes.pdb
+D:\2nd_semester_lab\DDOOCP(KR)\Prerana_Pandit_StickyNotes\UnitTestingStickyNotes\obj\Debug\UnitTestingStickyNotes.csprojResolveAssemblyReference.cache
+D:\2nd_semester_lab\DDOOCP(KR)\Prerana_Pandit_StickyNotes\UnitTestingStickyNotes\obj\Debug\UnitTestingStickyNotes.dll
+D:\2nd_semester_lab\DDOOCP(KR)\Prerana_Pandit_StickyNotes\UnitTestingStickyNotes\obj\Debug\UnitTestingStickyNotes.pdb
